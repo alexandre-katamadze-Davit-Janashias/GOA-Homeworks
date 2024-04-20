@@ -1,2 +1,2 @@
-for loop in range(2, 50, 4):
-    print(12)
+for i in range(2, 50, 4):
+    print(3)
